@@ -67,7 +67,7 @@
       input[type="submit"] {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-weight: bold;
-        margin: 0px 250px;
+        margin: 0px 200px;
         background-color: rgb(241, 51, 51);
         color: white;
         border-radius: 10px;
